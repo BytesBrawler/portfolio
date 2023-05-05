@@ -1,0 +1,55 @@
+{
+    "Apps": [
+        {
+            "id": 1,
+            "name": "Memes_Hub",
+            "desc": "The perfect platform for anyone who loves to laugh, share and\nenjoy the best and funniest memes on the internet",
+            "techs": "java",
+            "image": "assets/appRelatedImages/memes.png"
+
+        },
+        {
+            "id": 2,
+            "name": "Currency_Rates",
+            "desc": "Experience real\ntime Currency rates with graphs and calculate your amount with inbuilt currency calculator",
+            "techs": "java",
+            "image": "assets/appRelatedImages/currencyapp.png"
+
+        },
+        {
+            "id": 3,
+            "name": "Newsdi",
+            "desc": "Newsdi is a news app that gives you the access to the latest news around from the universe",
+            "techs": "flutter",
+            "image": "assets/appRelatedImages/newsapp.png"
+
+        },
+        {
+            "id": 4,
+            "name": "WHETHERO",
+            "desc": "Whethero is modern app that provides real time weather updates and provides accurate weather details all over the globe",
+            "techs": "flutter",
+            "image": "assets/appRelatedImages/whetherapp.png"
+
+        },
+        {
+            "id": 5,
+            "name": "Contact_Manager",
+            "desc": "The ultimate solution for organizing and managing all of your\nimportant contacts in one easy-to-use platform.",
+            "techs": "Java",
+            "image": "assets/appRelatedImages/contactapp.png"
+
+
+        },
+        {
+            "id": 6,
+            "name": "Movies_Hub",
+            "desc": "Your one-stop-shop for all things movies review. Whether you're a\ncinephile or just looking for some reviews",
+            "techs": "flutter",
+            "image": "assets/appRelatedImages/moviesapp.png"
+
+
+        }
+
+    ]
+}
